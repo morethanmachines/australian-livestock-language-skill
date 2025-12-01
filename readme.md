@@ -4,7 +4,7 @@ A Claude Skill for correctly using Australian livestock terminology
 
 This skill teaches Claude how to understand and apply the terminology defined in the **National Bovine Livestock Language Guidelines**, published by **MLA, AUS-MEAT, and the Meat Industry Language and Standards Committee**.
 
-Most large language models often default to US, Chinese or European livestock language. That leads to predictable problems: mixed scoring systems, incorrect assumptions, and advice that sounds confident but doesn’t match Australian practice. This skill provides Claude with a structured way to stay within the Australian standard.
+Most large language models often default to US, Chinese or European livestock language. That leads to predictable problems: mixed scoring systems, incorrect assumptions, and advice that sounds confident but doesn’t match Australian practice. This skill provides AI Agents with a structured way to stay within the Australian standard.
 
 The aim is simple: make livestock terminology clear, consistent, and usable inside an AI interface without changing or replacing the official Guidelines.
 
